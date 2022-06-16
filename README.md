@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davinderjit Kaur.
 - 👀 I’m interested in learning new web development technologies.
-- 🌱 I’m currently learning Flutter (dart language).
+- 🌱 I’m currently learning Flutter (dart).
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me through my email address: dkaur@ualberta.ca
 
